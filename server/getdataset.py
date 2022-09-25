@@ -109,3 +109,5 @@ joblib.dump(pipe_tt_xgb, 'saved_model.pkl')
 
 src_path = "./server/saved_model.pkl"
 dst_path = "./server/artifacts/saved_model.pkl"
+
+shutil.copy(src_path, dst_path)
