@@ -15,7 +15,7 @@ from sklearn.pipeline import Pipeline
 __class_name_to_number = {}
 __class_number_to_name = {}
 
-timeout = 10
+timeout = 30
 timeout_start = time.time()
 cap = cv2.VideoCapture(0)
 
