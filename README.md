@@ -1,7 +1,7 @@
 
 # Face Lock System
 
-Ready to use Face Lock System for myself which gives accces only to the user and never allows anyone else. Anyone can set the face-lock for themselves.
+Ready to use Face Lock System for everyone which gives accces only to the user and never allows anyone else. Anyone can set the face-lock for themselves.
 
 
 ## Features
