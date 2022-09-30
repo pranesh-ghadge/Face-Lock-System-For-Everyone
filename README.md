@@ -24,13 +24,15 @@ Ready to use Face Lock System for everyone which gives accces only to the user a
 
 ## Deployment
 
+- Download the whole directory
 - Run:
 ```bash
   pip install -r requirements.txt
 ```
-- Download the whole directory
-- Run "util.py" file.
-- If the person is user then prints "hello" else "Get Lost!". 
+- Run "getdataset.py" to set the face-lock for yourself! 
+  NOTE: Set the lighting perfect, look in camera for 30sec change orientation of your face slowly.
+- Run "util.py" to use the face-lock and see the result.
+- If the person is user then prints "Hello" else "Get Lost!". 
 
 
 
